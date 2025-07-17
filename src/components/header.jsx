@@ -20,12 +20,12 @@ function Header() {
 
                     <div className={`w-full md:w-auto ${showMenu ? 'flex' : 'hidden'} md:flex flex-col md:flex-row items-center md:justify-center md:mx-auto gap-4 `}>
 
-                        <a onClick={() => setShowMenu(false)} className=" hover:scale-105 transition-transform duration-500 hover:shadow-lg p-2 transition duration-300 rounded-full border-2 border-transparent hover:border-[#684646] hover:bg-[rgba(104,70,70,0.2)]" href="home.tsx">home</a>
+                        <a onClick={() => setShowMenu(false)} className=" hover:scale-105 transition-transform duration-500 hover:shadow-lg p-2 transition duration-300 rounded-full border-2 border-transparent hover:border-[#684646] hover:bg-[rgba(104,70,70,0.2)]" href="#home">home</a>
                         <a onClick={() => setShowMenu(false)} className="hover:scale-105 transition-transform duration-500 hover:shadow-lg p-2 transition duration-300 rounded-full border-2 border-transparent hover:border-[#684646] hover:bg-[rgba(104,70,70,0.2)]" href="#aboutMe">aboutMe</a>
                         <a onClick={() => setShowMenu(false)} className="hover:scale-105 transition-transform duration-500 hover:shadow-lg p-2 transition duration-300 rounded-full border-2 border-transparent hover:border-[#684646] hover:bg-[rgba(104,70,70,0.2)]" href="#work">work</a>
                         <a onClick={() => setShowMenu(false)} className="hover:scale-105 transition-transform duration-500 hover:shadow-lg p-2 transition duration-300 rounded-full border-2 border-transparent hover:border-[#684646] hover:bg-[rgba(104,70,70,0.2)]" href="#certificates">Certificates</a>
                         <a onClick={() => setShowMenu(false)} className="hover:scale-105 transition-transform duration-500 hover:shadow-lg p-2 transition duration-300 rounded-full border-2 border-transparent hover:border-[#684646] hover:bg-[rgba(104,70,70,0.2)]" href="#testimonials">testimonials</a>
-                        <a onClick={() => setShowMenu(false)} className="hover:scale-105 transition-transform duration-500 hover:shadow-lg p-2 transition duration-300 rounded-full border-2 border-transparent hover:border-[#684646] hover:bg-[rgba(104,70,70,0.2)]" href="">contacts</a>
+                        <a onClick={() => setShowMenu(false)} className="hover:scale-105 transition-transform duration-500 hover:shadow-lg p-2 transition duration-300 rounded-full border-2 border-transparent hover:border-[#684646] hover:bg-[rgba(104,70,70,0.2)]" href="#letsTalk">contacts</a>
                     </div>
                 </div>
             </div>
@@ -40,7 +40,7 @@ function Header() {
                         WebkitTextStrokeColor: "#F5F5F5",
                         fontFamily: "'Chewy', sans-serif"
                     }}>
-                        Desarrolladora de Software | Científica de Datos | IA
+                        Desarrolladora de Software | En formación en Ciencia de Datos e IA
                     </p>
                 </div>
                 <div className="rounded-full object-cover flex items-center justify-center w-[80%] md:w-[30%] h-[50%] md:h-[50%] border-8 border-[#B7959B] p-2 mt-6 md:mt-0 relative overflow-hidden">
