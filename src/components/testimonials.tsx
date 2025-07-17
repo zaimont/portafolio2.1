@@ -3,17 +3,17 @@ import React, { useEffect, useState } from "react";
 const testimonials = [
   {
     name: "Jose de Jesus Cabrera Castro",
-    img: "portafolio2.1/img/cabrera.png",
+    img: "/portafolio2.1/img/cabrera.png",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at lacus nec elit dictum interdum. Suspendisse potenti.",
   },
   {
     name: "Juventino Saucedo",
-    img: "portafolio2.1/img/juventino.png",
+    img: "/portafolio2.1/img/juventino.png",
     text: "Mauris in nulla eget erat tincidunt fermentum. Donec vel sapien vel nulla sodales tincidunt non ac mauris.",
   },
   {
     name: "Isabel Sanchez Gaona",
-    img: "portafolio2.1/img/isa.png",
+    img: "/portafolio2.1/img/isa.png",
     text: "Cras in orci convallis, feugiat arcu vitae, bibendum arcu. Integer pretium, orci nec gravida luctus, nisl erat sagittis leo.",
   },
 ];
