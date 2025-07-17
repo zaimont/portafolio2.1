@@ -44,7 +44,7 @@ function Certificates() {
                 </div>
 
                 <div className=" relative group bg-white rounded-lg p-4  overflow-hidden transition-transform duration-300 ease-in-out hover:scale-105" style={{ boxShadow: '0 5px 20px rgba(0, 0, 0, 0.5)' }}>
-                    <img className="w-[250px] h-[200px] rounded-lg mx-auto" src="/portafolio2.1/img/TCPro.png" alt="InnovaBank" />
+                    <img className="w-[250px] h-[200px] rounded-lg mx-auto" src="/portafolio2.1/img/tcPro.png" alt="InnovaBank" />
                     <h3 className="text-center py-4 text-xl font-semibold"> TecnolochicasPRO</h3>
                     <div className="absolute inset-0 bg-white p-4 rounded-lg  text-center opacity-0 invisible group-hover:visible group-hover:opacity-100 group-hover:translate-y-4 transition-all duration-300 text-[#111]">
                         <h3 className="text-xl font-semibold">Certificación Tecnolochicas PRO</h3>
@@ -56,7 +56,7 @@ function Certificates() {
                 </div>
 
                 <div className=" relative group bg-white rounded-lg p-4  overflow-hidden transition-transform duration-300 ease-in-out hover:scale-105" style={{ boxShadow: '0 5px 20px rgba(0, 0, 0, 0.5)' }}>
-                    <img className="w-[250px] h-[200px] rounded-lg mx-auto" src="/portafolio2.1/img/TC1.png" alt="InnovaBank" />
+                    <img className="w-[250px] h-[200px] rounded-lg mx-auto" src="/portafolio2.1/img/tc1.png" alt="InnovaBank" />
                     <h3 className="text-center py-4 text-xl font-semibold">TC1</h3>
                     <div className="absolute inset-0 bg-white p-4 rounded-lg  text-center opacity-0 invisible group-hover:visible group-hover:opacity-100 group-hover:translate-y-4 transition-all duration-300 text-[#111]">
                         <h3 className="text-xl font-semibold">Diseño de Paginas Web</h3>
@@ -67,7 +67,7 @@ function Certificates() {
                     </div>
                 </div>
                 <div className=" relative group bg-white rounded-lg p-4  overflow-hidden transition-transform duration-300 ease-in-out hover:scale-105" style={{ boxShadow: '0 5px 20px rgba(0, 0, 0, 0.5)' }}>
-                    <img className="w-[250px] h-[200px] rounded-lg mx-auto" src="/portafolio2.1/img/CdeDatos.png" alt="InnovaBank" />
+                    <img className="w-[250px] h-[200px] rounded-lg mx-auto" src="/portafolio2.1/img/cdeDatos.png" alt="InnovaBank" />
                     <h3 className="text-center py-4 text-xl font-semibold">Ciencia de Datos</h3>
                     <div className="absolute inset-0 bg-white p-4 rounded-lg  text-center opacity-0 invisible group-hover:visible group-hover:opacity-100 group-hover:translate-y-4 transition-all duration-300 text-[#111]">
                         <h3 className="text-xl font-semibold">Tecnolochicas Ciencia de Datos</h3>
