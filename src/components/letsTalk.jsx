@@ -19,10 +19,10 @@ function LetsTalk() {
         </p>
 
         <div className="flex justify-center lg:justify-end lg:px-30 px-2">
-          
+
           <button
-          onClick={() => window.location.href = "mailto:montserratlozano03@gmail.com?subject=Hola Montse&body=Quiero saber más sobre tu trabajo :)"}
-          className="transform hover:scale-105 transition-transform duration-500 bg-[#C1ABAA] rounded-full border-2 p-3">
+            onClick={() => window.location.href = "mailto:montserratlozano03@gmail.com?subject=Hola Montse&body=Quiero saber más sobre tu trabajo :)"}
+            className="transform hover:scale-105 transition-transform duration-500 bg-[#C1ABAA] rounded-full border-2 p-3">
             <img className="w-6 h-6" src="/portafolio2.1/img/email.png" alt="email" />
           </button>
 

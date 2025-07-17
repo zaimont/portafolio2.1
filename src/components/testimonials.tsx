@@ -36,17 +36,17 @@ function Testimonials() {
 
     <div className="w-full max-w-2xl mx-auto p-4 relative overflow-hidden m-20">
       <h2 className="text-[#6E4E4D] text-[30px] text-center  sm:text-[45px] font-normal" style={{
-          textShadow: "0px 4px 4px #BE9798",
-          WebkitTextStrokeWidth: "1px",
-          WebkitTextStrokeColor: "#F5F5F5",
-          fontFamily: "'Chewy', sans-serif"
-        }}> Testimonials </h2>
+        textShadow: "0px 4px 4px #BE9798",
+        WebkitTextStrokeWidth: "1px",
+        WebkitTextStrokeColor: "#F5F5F5",
+        fontFamily: "'Chewy', sans-serif"
+      }}> Testimonials </h2>
       <div className="flex transition-transform duration-700 ease-in-out" style={{ transform: `translateX(-${index * 100}%)` }}>
         {testimonials.map((t, i) => (
           <div key={i} className="w-full flex-shrink-0 px-6">
             <div className="bg-[#F0ECED]  rounded-lg shadow-[#6E4E4D] shadow-xl  p-6 text-center" style={{
-    boxShadow: "0px 8px 8px #6E4E4D",
-  }}>
+              boxShadow: "0px 8px 8px #6E4E4D",
+            }}>
               <img className="w-50 h-50 mx-auto rounded-full mb-4 object-cover" src={t.img} alt={t.name} />
               <p className=" font-serif text-sm mb-4">{t.text}</p>
               <h2 className=" font-serif font-bold">{`- ${t.name}`}</h2>

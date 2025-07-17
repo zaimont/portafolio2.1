@@ -9,15 +9,15 @@ function Header() {
 
     return (
         <header className="p-6 text-white text-center">
-           
-           
+
+
             <div className="p-2 m-2  w-full w-[80%] mx-auto">
                 <div className="flex flex-wrap md:flex-nowrap justify-between items-center">
                     {/* Icono de menú (hamburguesa) en pantallas pequeñas */}
                     <button className="md:hidden p-2 border rounded " onClick={toggleMenu}>
-                    ☰
+                        ☰
                     </button>
-                    
+
                     <div className={`w-full md:w-auto ${showMenu ? 'flex' : 'hidden'} md:flex flex-col md:flex-row items-center md:justify-center md:mx-auto gap-4 `}>
 
                         <a onClick={() => setShowMenu(false)} className=" hover:scale-105 transition-transform duration-500 hover:shadow-lg p-2 transition duration-300 rounded-full border-2 border-transparent hover:border-[#684646] hover:bg-[rgba(104,70,70,0.2)]" href="home.tsx">home</a>
