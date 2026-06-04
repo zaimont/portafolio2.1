@@ -2,6 +2,11 @@ import React, { useEffect, useState } from "react";
 
 const testimonials = [
   {
+    name: "Ing. Maciel Vázquez Montoya",
+    img: "/portafolio2.1/img/maciel.jpg",
+    text: "Montserrat Lozano ha destacado como instructora de Tecnolochicas desde 2023, formando a cientos de jóvenes en programación, robótica e inteligencia artificial. Su compromiso, liderazgo y profesionalismo la convierten en una excelente colaboradora y referente en educación tecnológica",
+  },
+  {
     name: "Jose de Jesus Cabrera Castro",
     img: "/portafolio2.1/img/cabrera.png",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at lacus nec elit dictum interdum. Suspendisse potenti.",
@@ -11,11 +16,7 @@ const testimonials = [
     img: "/portafolio2.1/img/juventino.png",
     text: "Mauris in nulla eget erat tincidunt fermentum. Donec vel sapien vel nulla sodales tincidunt non ac mauris.",
   },
-  {
-    name: "Isabel Sanchez Gaona",
-    img: "/portafolio2.1/img/isa.png",
-    text: "Cras in orci convallis, feugiat arcu vitae, bibendum arcu. Integer pretium, orci nec gravida luctus, nisl erat sagittis leo.",
-  },
+  
 ];
 
 function Testimonials() {
