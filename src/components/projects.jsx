@@ -25,7 +25,14 @@ function Projects() {
 
           <h3 className="text-center py-4 text-xl font-semibold">RePlay</h3>
 
-          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center opacity-0 invisible group-hover:visible group-hover:opacity-100 transition-all duration-300 text-[#111] flex flex-col justify-center items-center">
+          <div className="
+    absolute inset-0 bg-white p-4 rounded-lg text-center
+    opacity-100 visible
+    md:opacity-0 md:invisible
+    md:group-hover:visible md:group-hover:opacity-100
+    transition-all duration-300
+    text-[#111] flex flex-col justify-center items-center
+  ">
 
             <h3 className="text-xl font-semibold">RePlay</h3>
 
@@ -68,7 +75,12 @@ function Projects() {
 
           <h3 className="text-center py-4 text-xl font-semibold">Cooper</h3>
 
-          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center opacity-0 invisible group-hover:visible group-hover:opacity-100 transition-all duration-300 text-[#111] flex flex-col justify-center items-center">
+          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center
+    opacity-100 visible
+    md:opacity-0 md:invisible
+    md:group-hover:visible md:group-hover:opacity-100
+    transition-all duration-300
+    text-[#111] flex flex-col justify-center items-center">
 
             <h3 className="text-xl font-semibold">Cooper</h3>
 
@@ -114,7 +126,12 @@ function Projects() {
 
           <h3 className="text-center py-4 text-xl font-semibold">Adopciones</h3>
 
-          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center opacity-0 invisible group-hover:visible group-hover:opacity-100 transition-all duration-300 text-[#111] flex flex-col justify-center items-center">
+          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center
+    opacity-100 visible
+    md:opacity-0 md:invisible
+    md:group-hover:visible md:group-hover:opacity-100
+    transition-all duration-300
+    text-[#111] flex flex-col justify-center items-center">
 
             <h3 className="text-xl font-semibold">Adopciones</h3>
 
@@ -160,7 +177,12 @@ function Projects() {
 
           <h3 className="text-center py-4 text-xl font-semibold">ToDo App (AWS)</h3>
 
-          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center opacity-0 invisible group-hover:visible group-hover:opacity-100 transition-all duration-300 text-[#111] flex flex-col justify-center items-center">
+          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center
+    opacity-100 visible
+    md:opacity-0 md:invisible
+    md:group-hover:visible md:group-hover:opacity-100
+    transition-all duration-300
+    text-[#111] flex flex-col justify-center items-center">
 
             <h3 className="text-xl font-semibold">ToDo App</h3>
 
@@ -208,7 +230,12 @@ function Projects() {
 
           <h3 className="text-center py-4 text-xl font-semibold">InnovaBank</h3>
 
-          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center opacity-0 invisible group-hover:visible group-hover:opacity-100 transition-all duration-300 text-[#111] flex flex-col justify-center items-center">
+          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center
+    opacity-100 visible
+    md:opacity-0 md:invisible
+    md:group-hover:visible md:group-hover:opacity-100
+    transition-all duration-300
+    text-[#111] flex flex-col justify-center items-center">
 
             <h3 className="text-xl font-semibold">InnovaBank</h3>
 
@@ -254,7 +281,12 @@ function Projects() {
 
           <h3 className="text-center py-4 text-xl font-semibold">Procesamiento de datos con Python</h3>
 
-          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center opacity-0 invisible group-hover:visible group-hover:opacity-100 transition-all duration-300 text-[#111] flex flex-col justify-center items-center">
+          <div className="absolute inset-0 bg-white p-4 rounded-lg text-center
+    opacity-100 visible
+    md:opacity-0 md:invisible
+    md:group-hover:visible md:group-hover:opacity-100
+    transition-all duration-300
+    text-[#111] flex flex-col justify-center items-center">
 
             <h3 className="text-xl font-semibold">Procesamiento de datos con Python</h3>
 
