@@ -40,7 +40,7 @@ function Header() {
                         WebkitTextStrokeColor: "#F5F5F5",
                         fontFamily: "'Chewy', sans-serif"
                     }}>
-                        Desarrolladora de Software | En formación en Ciencia de Datos e IA
+                        Desarrolladora de Software
                     </p>
                 </div>
                 <div className="rounded-full object-cover flex items-center justify-center w-[80%] md:w-[30%] h-[50%] md:h-[50%] border-8 border-[#B7959B] p-2 mt-6 md:mt-0 relative overflow-hidden">
