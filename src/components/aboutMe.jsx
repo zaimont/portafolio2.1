@@ -18,9 +18,11 @@ function AboutMe() {
       <div className=" p-4 border-4 rounded-2xl m-5  border-[#B7959B]">
         <div className="py-10 border-2 border-pink-200 rounded-lg    px-2 bg-[#F0ECED] text-center text-black">
           <p className="text-lg mt-4 p-4">
-            ¡Hola! Soy Montserrat Lozano, Ingeniera en Tecnologías de la Información e Innovación Digital y TSU en Desarrollo de Software Multiplataforma. Me especializo en el desarrollo de aplicaciones web y móviles utilizando tecnologías como React, React Native, Node.js, MongoDB y Python.<br /><br />
-
-            Tengo interés en áreas como Inteligencia Artificial, Ciencia de Datos, Desarrollo Backend y Aseguramiento de Calidad (QA). Disfruto construir soluciones tecnológicas que resuelvan problemas reales y me encuentro en constante aprendizaje para fortalecer mis habilidades profesionales.
+            Soy recién egresada de la carrera de Ingeniería en Tecnologías de la Información e Innovación Digital, con formación en desarrollo de software multiplataforma.
+            <br></br>
+            Me apasiona la tecnología y el aprendizaje continuo. Actualmente busco desarrollar experiencia profesional en áreas como desarrollo web, desarrollo backend, bases de datos e inteligencia artificial aplicada.
+            <br></br>
+            Durante mi formación participé en proyectos académicos, hackatones y estadías profesionales que me permitieron fortalecer mis habilidades técnicas y de trabajo en equipo.
           </p>
         </div>
       </div>
