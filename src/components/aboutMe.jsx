@@ -18,11 +18,12 @@ function AboutMe() {
       <div className=" p-4 border-4 rounded-2xl m-5  border-[#B7959B]">
         <div className="py-10 border-2 border-pink-200 rounded-lg    px-2 bg-[#F0ECED] text-center text-black">
           <p className="text-lg mt-4 p-4">
-            Soy recién egresada de la carrera de Ingeniería en Tecnologías de la Información e Innovación Digital, con formación en desarrollo de software multiplataforma.
+            Soy Ingeniera en Tecnologías de la Información e Innovación Digital, especializada en desarrollo de software multiplataforma. Cuento con experiencia práctica en el desarrollo de aplicaciones web y móviles, trabajando con tecnologías como React, React Native, Node.js, SQL Server y APIs REST.
             <br></br>
-            Me apasiona la tecnología y el aprendizaje continuo. Actualmente busco desarrollar experiencia profesional en áreas como desarrollo web, desarrollo backend, bases de datos e inteligencia artificial aplicada.
             <br></br>
-            Durante mi formación participé en proyectos académicos, hackatones y estadías profesionales que me permitieron fortalecer mis habilidades técnicas y de trabajo en equipo.
+            Me apasiona la tecnología, el aprendizaje continuo y la creación de soluciones digitales que aporten valor. Durante mi formación y experiencia profesional he participado en proyectos de desarrollo de software, hackathones y estadías profesionales, fortaleciendo mis habilidades técnicas, de resolución de problemas y trabajo colaborativo.<br></br>
+           <br></br>
+           Actualmente continúo ampliando mis conocimientos en desarrollo backend, bases de datos, inteligencia artificial aplicada y nuevas tecnologías, con el objetivo de seguir creciendo como ingeniera de software.
           </p>
         </div>
       </div>
